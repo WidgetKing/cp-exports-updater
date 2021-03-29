@@ -1,4 +1,7 @@
 node_modules/
-repositories/**
+repositories/*
+!repositories/testfile.js
+server/*
+!server/*testfile.js
 *~
 *.swp

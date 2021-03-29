@@ -1,7 +1,7 @@
 {
   "server": {
     "root": "server",
-    "port": 8080
+    "port": 9090
   },
-  "watch": ["repositories/testfile.js"]
+  "watch": ["repositories/cp-connect/dist/cp-connect.js"]
 }
