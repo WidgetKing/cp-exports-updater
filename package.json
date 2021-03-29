@@ -1,0 +1,16 @@
+{
+  "name": "cp-exports-updater",
+  "version": "1.0.0",
+  "description": "Watches repositories and updates files in test Captivate exports",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tristan Ward",
+  "license": "ISC",
+  "devDependencies": {
+    "glob": "^7.1.6",
+    "gulp": "^4.0.2",
+    "gulp-connect": "^5.7.0"
+  }
+}
