@@ -7,6 +7,6 @@
     "repositories/cp-connect/dist/cp-connect.js",
     "repositories/magnus-tools/dist/magnus-tools.js",
     "repositories/cpextra/builds/development/Infosemantics_CpExtra.js",
-    "repositories/cp-certificate/dist/cp-certificate.js"
+    "repositories/cp-certificate/dist/certificate.js"
   ]
 }
