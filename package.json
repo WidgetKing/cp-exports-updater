@@ -4,7 +4,8 @@
   "description": "Watches repositories and updates files in test Captivate exports",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "gulp"
   },
   "author": "Tristan Ward",
   "license": "ISC",
